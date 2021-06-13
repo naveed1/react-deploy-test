@@ -6,13 +6,9 @@
     "image": "profilepic.jpg",
     "bio": "Currently pursuing MBA HR at NMIMS Mumbai (2023 batch).\n\n3 years of experience in Talent Acquisition and HR operations at a Digital Marketing and IT Startup.\n\nSkilled in: Talent Acquisition, End-to-end recruitment cycle, IT and Non-IT recruitment, Campus placements, Onboarding, Setting up processes, Employee Engagement activities, and Sourcing.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "soumyabhatnagar16697@gmail.com",
     "address": {
-      "street": "(Your Street)",
-      "city": "India",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "city": "India"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "http://timbakerdev.com",
@@ -48,64 +44,64 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
+        "school": "SVKM's Narsee Monjee Institute of Management Studies (NMIMS)",
+        "degree": "MBA - Human Resources Management/Personnel",
+        "graduated": "2021 - 2022",
         "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
       {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
+        "school": "Christ University, Bangalore",
+        "degree": "Bachelor of Business Administration - BBA(H) Human Resources Management/Personnel",
+        "graduated": "2015 - 2018",
         "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "DeltaX",
+        "title": "Talent Acquisition Consultant",
+        "years": "Jan 2021 - June 2021",
+        "description": "Talent Acquisition (End to end recruitment) for the roles of - Business Development, Digital Marketing and Graphic Designer. Organised Campus placement for the role of international sales and digital marketing analyst.Involved in Head hunting for Business Development / International Sales and Digital Marketers."
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "",
+        "title": "Talent Acquisition Manager",
+        "years": "May 2018 - December 2020",
+        "description": "Single-handedly managed the HR department for DeltaX. Primarily took care of the entire recruitment cycle, starting from sourcing the candidates to closing a profile and onboarding the candidates.\nSpecialized in tech recruitment for freshers and conducted more than 100 campus placements in the campus placement season of 2019."
+
       }
     ],
     "skills": [
       {
-        "name": "Git",
+        "name": "End to End Recruitment Cycle Management",
         "level": "60%"
       },
       {
-        "name": "Illustrator",
+        "name": "Employee Onboarding",
         "level": "55%"
       },
       {
-        "name": "ReactJs",
+        "name": "Employee Performance Management",
         "level": "50%"
       },
       {
-        "name": "CSS",
+        "name": "Training and Development",
         "level": "90%"
       },
       {
-        "name": "HTML5",
+        "name": "Administrative Expert",
         "level": "80%"
       },
       {
-        "name": "VueJs",
+        "name": "Excel and SPSS(Beginner)",
         "level": "50%"
-      },
-      {
-        "name": "MongoDB",
-        "level": "80%"
       }
     ]
   },
   "portfolio": {
+    "drawings": {
+
+    },
     "projects": [
       {
         "title": "Canadian Wanderlust",
@@ -142,11 +138,11 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "“Hi! My name is Somu.” said a girl in white frock 20 years ago to a girl who had no idea about the lifetime package that came with her.\nThe story has a lot of chapters but little did we know that we would become\nFrom strangers to best friends forever\nFrom talking about what to play today to what to chose in life to never ending list.\nIt’s amazing to see such a pretty girl turn into a beautiful woman.\nAnd being with you in that process is such a blessing. You’ve always said to maintain stuff, efforts from both the ends matter.\nSince you’ve always been on my side\nI never realised how important you are to me,\nUntil I was about to lose you.\nSince that day there has been no day that I didn’t put my step ahead and live up to what we’re entitled too - BFF\nObviously can’t imagine to lose a gem like you. Even though I’m uncertain about some things in life but I’m certain that I love you and will genuinely continue to love you forever.\nIt’s already been 20 years and I know it would continue till the last breath\nCan’t blame myself for such a dramatic speech\nAfter all it was for you lol.",
+        "user": "Neelika"
       },
       {
-        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "text": "   ",
         "user": "Steve Wozniak... impersonator"
       }
     ]

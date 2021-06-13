@@ -8,7 +8,8 @@
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-ga": "^2.3.5",
-    "react-scripts": "1.0.17"
+    "react-scripts": "1.0.17",
+    "react-modal": "^3.14.2"
   },
   "scripts": {
     "predeploy": "npm run build",
